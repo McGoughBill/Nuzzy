@@ -1,0 +1,1 @@
+save data structure link: https://bulbapedia.bulbagarden.net/wiki/Save_data_structure_(Generation_III)
