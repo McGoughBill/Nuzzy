@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b33722b-6960-4189-adce-8128c4ce006e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/great_papers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vlm_training.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/High-level-design-thoughts.md" beforeDir="false" afterPath="$PROJECT_DIR$/High-level-design-thoughts.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_mgba.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +43,14 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.encounter_list.executor": "Run",
     "Python.encounter_list_rse.executor": "Run",
+    "Python.game_state.executor": "Run",
     "Python.gen3_extractor.executor": "Run",
+    "Python.play_pokemon.executor": "Run",
     "Python.sav_inspection.executor": "Run",
     "Python.swap.executor": "Run",
     "Python.swap_frlg.executor": "Run",
+    "Python.test_mgba.executor": "Run",
+    "Python.test_play_pokemon.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -53,6 +61,11 @@
     "last_opened_file_path": "/Users/bill/PycharmProjects/Nuzzy",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Markdown"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">

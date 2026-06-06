@@ -25,7 +25,13 @@ in a conversation, in a battle, party menu, bag menu, buying screen, healing, cu
 evolution sequence (can press b to cancel - should cancel this ahead of time), fly/surf destination select, safari
 zone, game corner, etc.
 
-The cost of the more-involved text approach is the complexity of the 
+I think the best way is a joint image-caption description of the game. Captioning can be automatically generated based on mGBA's
+sprite-detection, and in-game data relating to coordinates and map locattion. For example, "We are currently on Route 224, placed
+in coordinates [x] and [y], approximately [a] distance from Cerulean City and [b] distance from Whatever town. There are three trainers
+in the local vicinity: a hiker 10 steps up and three steps right, looking to the left; a girl 2 steps up four steps left, looking to the right,
+and a boy 1 step below and 0 steps left of you."
+
+Therefore, every game is defined by an end-to-end script and a folder of screenshots.
 
 **Notes on battle bot**
 
